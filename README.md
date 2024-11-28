@@ -1,3 +1,6 @@
+- Requires --std-c++20. Warnings used for development include:
+  - `-Wall -Wunused -Wextra -pedantic -Wshadow -Wsign-conversion`
+
 Please write a command‑line program rotate that takes three arguments:
 - the word left or right
 - an input filename
